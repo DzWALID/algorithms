@@ -1,4 +1,4 @@
 algorithms
 ==========
 
-My algorithm implementations
+My algorithm implementations in C++ and Java
