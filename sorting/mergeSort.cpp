@@ -1,3 +1,6 @@
+/*
+This merge sort algorithm sorts 25000000 integers less than 60 seconds
+*/
 #include <cstdio>
 #include <iostream>
 using namespace std;
